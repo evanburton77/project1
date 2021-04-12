@@ -16,6 +16,10 @@ async function getTeam(event){
     
         if(textInput2.value === res.teams[0].locationName){
            alert("CORRECT!")
+           var score = document.querySelector(".score").innerText
+           var scoreNum = parseInt(score, 10)
+           scoreNum += 10
+           document.querySelector(".score").innerText = scoreNum
         }})
 }
 
