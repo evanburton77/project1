@@ -1,1 +1,32 @@
+.randomNHL{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+.answer{
+    background-color:black;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer
+}
+#my-NHL-header{
+    font-family: 'Courier New', Courier, monospace;
+}
 
+.score{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-image: url("https://previews.123rf.com/images/marinat197/marinat1971708/marinat197170800002/83392513-vector-of-ice-hockey-rink-textures-blue-ice-ice-rink-vector-illustration-background-.jpg");
+    background-color: #cccccc;
+   }
