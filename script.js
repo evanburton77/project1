@@ -20,6 +20,10 @@ async function getTeam(event){
            var scoreNum = parseInt(score, 10)
            scoreNum += 10
            document.querySelector(".score").innerText = scoreNum
+           var myAudio = document.createElement("audio");
+myAudio.src = "https://www.myinstants.com/media/sounds/chicago-blackhawks-2014-goal-horn-mp3cut.mp3";
+myAudio.play();
+;
         }})
 }
 
