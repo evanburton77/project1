@@ -17,3 +17,8 @@ As someone who doesn't know hockey, it's good to learn further knowledge on the 
 
 **Further Coding**
 Add in players, stats, etc.
+
+**How To Use**
+1) Type a number (1-31) to get a Team's Location.  
+2) Type in the team name in the second box.  
+3) Click Submit
